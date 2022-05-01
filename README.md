@@ -1,1 +1,1 @@
-- A powerful and easy-to-use ADs promoter bot made by @xD_Comrade
+- A powerful and easy-to-use ADs promoter bot made by @biharibabuhu
