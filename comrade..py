@@ -7,8 +7,8 @@ from telethon.tl.functions.channels import GetFullChannelRequest, JoinChannelReq
 import time
 
 logging.basicConfig(level=logging.INFO)
-OWNER_IDS = [2140114063, 2067682959] # edit your id
-client = TelegramClient(
+OWNER_IDS = [2140114063, 5388066357, 2067682959] # edit your id
+client = TelegramClient(pp
     StringSession("Your string session here"),
     api_id=Your api id,
     api_hash="Your api hash"
